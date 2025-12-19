@@ -1,0 +1,11 @@
+This is a sample text file.
+
+Here are some random notes:
+- Remember to check the documentation
+- Test the application thoroughly
+- Keep the code clean and organized
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+End of notes.
